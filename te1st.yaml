@@ -1,2 +1,2 @@
-# Steam商店&Steam社区
-PROCESS-NAME,FarCry5.exe
+payload:
+  - PROCESS-NAME,FarCry5.exe
